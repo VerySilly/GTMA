@@ -1,0 +1,2 @@
+GTMA/data/**/*.svs filter=lfs diff=lfs merge=lfs -text
+GTMA/data/**/*.csv filter=lfs diff=lfs merge=lfs -text
