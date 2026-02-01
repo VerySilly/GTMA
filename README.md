@@ -89,4 +89,3 @@ python app.py
 
 * https://github.com/hustvl/LKCell
 
-BiNEL (http://binel.snu.ac.kr) - This code is made available under the MIT License and is available for non-commercial academic purposes
