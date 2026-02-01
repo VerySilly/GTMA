@@ -70,7 +70,7 @@ python IG_attention_feature_cal_main.py\
 ```
 conda env create -fLKcell_environment.yml
 conda activate LKcell
-python
+python wsi_infer.py
 ```
 
 * Users can visualize cell features using the web
